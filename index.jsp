@@ -1,4 +1,4 @@
-<%@ page contentType="text/html; charset=EUC-KR"%>
+﻿<%@ page contentType="text/html; charset=EUC-KR"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -6,6 +6,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>ù��° jsp����</h1>
+<h1>첫번째 jsp파일</h1>
+utf-8로 수정했습니다.
 </body>
 </html>
